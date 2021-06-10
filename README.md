@@ -1,3 +1,3 @@
 # Projeto Teste Colaborativo.
 
-* Repositório para tente de deselvolvimento colaborativa.
+* Repositório para teste de deselvolvimento colaborativo.
