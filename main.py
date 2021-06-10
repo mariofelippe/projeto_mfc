@@ -1,8 +1,12 @@
 """
 Arquivo principal.
 """
+
 from datetime import datetime
 data_atual = datetime.now()
-print(f"OK. Confirmado! - {data_atual}")
 
+M = "Mário"
+F = "Fábio"
 
+print(f"OK. Confirmado ! - {M} : {data_atual}")
+print(f"OK. Confirmado ! - {F}")
