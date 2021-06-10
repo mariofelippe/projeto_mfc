@@ -1,3 +1,9 @@
 # Projeto Teste Colaborativo.
 
-* Repositório para teste de deselvolvimento colaborativo.
+* Repositório para teste de desenvolvimento colaborativo.
+
+## Participantes
+
+- @mariofelippe
+- @fabiojspereira
+- @carlosatsimoes
